@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(216, 216, 216) !important;
+    
+}
+#mainBotton{
+  padding: 2rem 5rem;
+ 
+  background-color: #0000FF;
+
+}
+#mainBotton:hover{
+    background-color: rgb(7, 206, 7);
+}
+#outbot{
+    font-size: 2rem;
+    padding: 1rem;
+    margin: 1rem    ;
+}
+.font-ss{
+    font-family: Impact;
+    font-size: 5rem;
+}
